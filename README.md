@@ -1,10 +1,32 @@
-# Zyro International Website
+# ZYROCORP Website — V2 Light Test
 
-Static corporate website for Zyro International.
+U.S.-centric Business & Technology Services website.
 
-Files:
-- index.html
-- styles.css
-- script.js
+Primary launch proposition:
+Never Miss a Customer Call Again.
 
-Deployment target: Cloudflare Workers/Pages static deployment.
+Launch focus:
+- U.S. Customer Operations
+- Zyro CallDesk
+- HVAC / home-service businesses
+
+Adjacent services:
+- Property Management
+- E-commerce Operations
+- IT / MSP Helpdesk
+- Back Office
+- AI Operations
+- Managed Services
+- International Business Services
+
+Design direction:
+- Light, bright corporate visual system
+- Colors derived from the supplied ZYROCORP logo: cobalt/blue, sky blue, green
+- Local visual assets; no external image dependency
+- Supplied ZYROCORP logo used in header, favicon and footer
+
+Cloudflare Pages:
+Framework: None
+Build command: blank
+Build output directory: blank
+Production branch: main
