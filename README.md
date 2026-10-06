@@ -1,29 +1,12 @@
-# ZYROCORP Website — V2 Light Test
+# ZYROCORP V3 — Self-Contained Light Test
 
-U.S.-centric Business & Technology Services website.
+This version embeds the supplied ZYROCORP logo and all visual illustrations directly in index.html.
+No assets folder is required, preventing broken-image problems when only the three website files are uploaded to GitHub.
 
-Primary launch proposition:
-Never Miss a Customer Call Again.
-
-Launch focus:
-- U.S. Customer Operations
-- Zyro CallDesk
-- HVAC / home-service businesses
-
-Adjacent services:
-- Property Management
-- E-commerce Operations
-- IT / MSP Helpdesk
-- Back Office
-- AI Operations
-- Managed Services
-- International Business Services
-
-Design direction:
-- Light, bright corporate visual system
-- Colors derived from the supplied ZYROCORP logo: cobalt/blue, sky blue, green
-- Local visual assets; no external image dependency
-- Supplied ZYROCORP logo used in header, favicon and footer
+Files:
+- index.html
+- styles.css
+- script.js
 
 Cloudflare Pages:
 Framework: None
