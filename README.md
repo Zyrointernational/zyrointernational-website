@@ -1,6 +1,6 @@
-# Zyro International — Agri 1 Testing Website
+# Zyro International
 
-Test build for Zyro International with two top-level verticals:
+Zyro International with two top-level verticals:
 
 1. Zyro Agri Tech Solutions
 2. Zyro Global Sourcing & Trading
